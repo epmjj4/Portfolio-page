@@ -10,7 +10,7 @@ https://epmjj4.github.io/Portfolio-page/
 
 # portfolio screenshot
 
-![alt text](https://github.com/epmjj4/Portfolio-page/blob/main/Ernesto/assets/img/portfolio-screenshot.png?raw=true "Updated Portfolio")
+![alt text](https://github.com/epmjj4/Portfolio-page/blob/main/assets/img/portfolio-screenshot.png?raw=true "Updated Portfolio")
 
 In the HTML file, I updated all my profile information. I setup an id for the image called Nes. And at the bottom of the page, there is are li elements setup for my linkedin profile, for my github, and the third link will open to my updated resume. 
 
