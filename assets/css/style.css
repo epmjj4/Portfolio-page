@@ -319,6 +319,7 @@ img {
     /*max-height: 650px;*/
     position: relative;
     background-image: url(../img/coding-image.jpg);
+    filter: brightness(1.0);
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
